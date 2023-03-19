@@ -1,5 +1,7 @@
 # Qtrip-dynamic
-#Welcome to Qtrip Dynamic! Qtrip Dynamic is a travel booking website that allows users to book flights, hotels, rental cars, and more. This website is #built using modern web technologies such as React, Node.js, and MongoDB.
+#Welcome to Qtrip Dynamic! Qtrip Dynamic is a travel booking website that allows users to book flights, hotels, rental cars, and more.
+
+#Direct Website Link - 
 
 #Features
 #Qtrip Dynamic comes with a range of features that make it easy for users to find and book travel accommodations. Some of the key features of this website #include:
